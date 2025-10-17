@@ -21,6 +21,39 @@ The repository contains modular Python scripts, each focusing on a specific part
 | **`FAT16Recover.py`** | A recursive tool designed to **recover deleted files** from a FAT16 disk image by examining unallocated directory entries. |
 
 ---
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/142ab271-9318-4b3c-9ccb-c8a3e6d66ad5" />
+
+**MBR**
+
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/25764cba-46ef-436d-aeea-542b8808bd02" />
+
+**Boot**
+
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/ce1834c1-6c03-4666-a105-63e31a88f742" />
+
+**FAT16**
+
+
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/be310e2e-4a91-4b90-8141-9fb4141bd274" />
+
+**FAT32**
+
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/fc241861-76bc-4cfe-96f4-b0fb5e3e4aef" />
+
+**Directory**
+
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/5941e4d8-d4d3-407e-a0a0-ed9c69da65bb" />
+
+**ForensicTrace**
+
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/b86506fb-8d10-4f34-a6a3-8991251c00b1" />
+
+**FAT16Recover**
+
+
+
+
+
 
 ## 🚀 Usage
 
